@@ -1,1 +1,2 @@
 "Hello, Ning!" 
+"Ini adalah perubahan kedua" 
